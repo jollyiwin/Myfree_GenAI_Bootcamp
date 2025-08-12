@@ -1,1 +1,1 @@
-# Myfree_GenAI_Bootcamp
+# Myfree_GenAI_Bootcamp-2025
