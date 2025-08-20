@@ -20,6 +20,8 @@
 - Provide a possible sentence structure.
 - The table of vocabulary should only have the following columns: Japanese, Romaji, English.
 - do not use romaji when showing Japanese except in the table of vocabulary.
+- when the student makes attempt, interpet their reading so they can see what they actually said.
+
 
 ## Formatting Instruction
 
@@ -32,10 +34,27 @@ The formatted output will generally contain three parts:
 - the table should only include, verbs, adverbs, adjectives
 - the table of Vocabulary should only have the following columns: Japanese, Romaji, English
 - Do not provide particles in the vocabulary table, student needs to figure the correct particles to use
-
+- ensure there are no repeat, eg, if miru verb is repeated twice, show it only once
+- if there is more than one version of a word, show the most common example
 
 ### Sentence Structure
 - do not  provide particle in the sentence structure
+- do not provide tenses or conjugations in the sentence structure 
+- remember to consider beginner level sentence structures
+
+Here is an example of simple sentence structures.
+- The bird is black. → [Subject] [Adjective].
+- The raven is in the garden. → [Location] [Subject] [Verb].
+- Put the garbage in the garden. → [Location] [Object] [Verb].
+- Did you see the raven? → [Subject] [Object] [Verb]?
+- This morning, I saw the raven. → [Time] [Subject] [Object] [Verb].
+- Are you going? → [Subject] [Verb]?
+- Did you eat the food? → [Object] [Verb]?
+- The raven is looking at the garden. → [Subject] [Verb] [Location].
+- The raven is in the garden, and it is looking at the flowers. → [Location] [Subject] [Verb], [Object] [Verb].
+- I saw the raven because it was loud. → [Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb].
+
+
 
 ### clues and Considerations
 - try and provide a non-nexted bulleted list
@@ -85,4 +104,4 @@ The formatted output will generally contain three parts:
 
  ##  Student Input:
 
- did you see the raven this morning?
+ did you see the raven this morning? they were looking at our garden.
